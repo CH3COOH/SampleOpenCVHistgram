@@ -1,11 +1,3 @@
-//
-//  OpenCVWrapper.mm
-//  SampleOpenCVHistgram
-//
-//  Created by KENJI WADA on 2020/04/03.
-//  Copyright © 2020 ch3cooh.jp. All rights reserved.
-//
-
 #import <opencv2/opencv.hpp>
 #import <opencv2/imgcodecs/ios.h>
 #import <opencv2/imgproc/imgproc_c.h>
